@@ -4,8 +4,7 @@ Preprocessing data is performed to prepare the dataset before it is used in the 
 ## Steps
 Several processes are carried out to ensure that the dataset is clean, consistent, and ready for further analysis. The preprocessing process consists of the following steps:
 
-**1. Attribute Reduction**  
-<br>
+**1. Attribute Reduction**  <br>
 Removing unnecessary attributes to focus on relevant data for phishing detection.
 
 <br>
