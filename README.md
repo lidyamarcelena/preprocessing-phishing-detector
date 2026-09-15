@@ -7,17 +7,22 @@ Several processes are carried out to ensure that the dataset is clean, consisten
 **1. Attribute Reduction**  <br>
 Removing unnecessary attributes to focus on relevant data for phishing detection.
 <br>
+
 **2. Data Labeling**  <br>
 Assigning each URL a label, **legitimate** or **phishing**, as the target class for classification.
 <br>
+
 **3. Data Cleaning**  <br>
 Removing duplicate, invalid, or unusable data to improve dataset quality.
 <br>
+
 **4. Data Merging**  <br>
 Combining data from different sources into a single dataset for further processing.
 <br>
+
 **5. Data Balancing**  <br>
 Equalizing the number of legitimate and phishing samples to prevent class imbalance.
 <br>
+
 **6. Data Shuffling**  <br>
 Randomizing the order of the data to prevent patterns based on the original data sequence and create a more representative dataset.
